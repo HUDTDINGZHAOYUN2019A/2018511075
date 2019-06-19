@@ -3,7 +3,6 @@
 
 学习使用交流借鉴 参赛链接
 
-Windows
 1.下载Anaconda 
 
 2.安装相应库: pip install Keras 
