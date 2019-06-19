@@ -3,13 +3,13 @@
 
 一、学习使用交流借鉴 参赛链接
 
-1.下载Anaconda 
+下载Anaconda 
 
-2.安装相应库: pip install Keras 
+安装相应库: pip install Keras 
 
-3.进行Python学习
+进行Python学习
 
-4.组内交流
+组内交流
 
 二、运行环境
 
